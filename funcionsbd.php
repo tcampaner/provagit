@@ -8,7 +8,7 @@
     // branca master   
    }
    function nova2(){
-       
+       // Canvi a la branca experiment
    }
    function connexio() {        
         $mysqli = new mysqli(HOST,USER,PASSWORD,DATABASE);
