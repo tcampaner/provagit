@@ -4,7 +4,7 @@
    define("PASSWORD","");
    define("DATABASE","bioblioteca");
    function nova(){
-      
+    // modificat  
    }
    function nova2(){
        
