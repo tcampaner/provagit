@@ -3,7 +3,12 @@
    define("USER","root");
    define("PASSWORD","");
    define("DATABASE","bioblioteca");
-   
+   function nova(){
+      
+   }
+   function nova2(){
+       
+   }
    function connexio() {        
         $mysqli = new mysqli(HOST,USER,PASSWORD,DATABASE);
         if ($mysqli->connect_error) {           
