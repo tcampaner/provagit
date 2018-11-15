@@ -4,7 +4,8 @@
    define("PASSWORD","");
    define("DATABASE","bioblioteca");
    
-   
+   function nofares() {
+   }
    function connexio() {        
         $mysqli = new mysqli(HOST,USER,PASSWORD,DATABASE);
         if ($mysqli->connect_error) {           
