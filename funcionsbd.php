@@ -5,6 +5,7 @@
    define("DATABASE","bioblioteca");
    function nova(){
     // modificat  
+    // branca master   
    }
    function nova2(){
        // Canvi a la branca experiment
