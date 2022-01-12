@@ -1,5 +1,6 @@
 <?php
  // recollida estat
+// CANVI FET PER PROVA GITHUB
  $ordre=isset($_POST['ordre'])?$_POST['ordre']:'nom_aut';
  $sentit=isset($_POST['sentit'])?$_POST['sentit']:'asc';
  $filtre=isset($_POST['filtre'])?$_POST['filtre']:'';
